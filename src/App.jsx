@@ -43,7 +43,7 @@ const experiences = [
         bullets: [
           'Led brand identity systems for 8+ international clients',
           'Directed a team of 3 junior designers on packaging projects',
-          'Established a modular design system reducing turnaround by 40%',
+          'Established  modular design system reducing turnaround by 40%',
         ],
       },
     ],
